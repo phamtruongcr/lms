@@ -1,0 +1,22 @@
+<?php  
+return [
+    'Test Managements'=>'Quản lý bài kiểm tra',
+    'Create a test'=>'Thêm một bài kiểm tra mới',
+    'Name'=>'Tên',
+    'Description'=>'Mô tả',
+    'Slug' =>'Đường dẫn',
+    'Lesson name'=>'Tên bài học',
+    'Status'=>'Trạng thái',
+    'Total time'=>'Thời gian',
+    'Total point'=>'Tổng điểm',
+    'Limit'=>'Số lượt làm',
+    'Created at'=>'Ngày khởi tạo',
+    'Updated at'=>'Ngày cập nhật',
+    'Action'=>'Thao tác',
+    'No Tests'=>'Không có bài kiểm tra',
+    'Tests managemant'=>'Quản lý bài kiểm tra',
+    'Create with other languages'=>'Tạo thểm bằng ngôn ngữ khác',
+    'Save'=>'Cập nhật',
+    'Select the lesson'=>'Chọn bài học',
+    'Other test content'=>'Nội dung',
+];

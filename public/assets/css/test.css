@@ -1,0 +1,101 @@
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1.2rem;
+    font-weight: 400;
+    color: #cf1628;
+    text-transform: none;
+    font-style: normal;
+}
+.que {
+    clear: left;
+    text-align: left;
+    margin: 0 auto 1.8em auto;
+}
+.que .info {
+    background-color: #f4f4f4;
+    background-image: url(/theme/image.php/mb2nl/theme/1644652786/svg/strip2_black8);
+    width: 8.5rem;
+}
+.que .info {
+    float: left;
+    width: 7em;
+    padding: 0.5em;
+    margin-bottom: 1.8em;
+    background-color: #dee2e6;
+    border: 1px solid #cad0d7;
+    border-radius: 2px;
+}
+.que .info>h3 {
+    margin: 0;
+    line-height: 1;
+    background-color: #e63946;
+    padding: 0.1rem 0.4rem;
+    color: #fff;
+    -webkit-border-radius: 0.15rem;
+    -moz-border-radius: .15rem;
+    -ms-border-radius: .15rem;
+    border-radius: 0.15rem;
+    font-size: .85rem;
+}
+.que span.qno {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.que .info>div {
+    font-size: .8em;
+    margin-top: 0.7em;
+}
+.que .content {
+    margin-left: 9.6rem;
+}
+.que .content {
+    margin: 0 0 0 8.5em;
+}
+.que .formulation {
+    color: inherit;
+    background-color: #f4f4f4;
+    border-color: #d5d5d5;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.accesshide {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
+}
+h4, .h4 {
+    font-size: 20px;
+}
+.que .qtext {
+    margin-bottom: 1.5em;
+}
+.que .ablock {
+    margin: 0.7em 0 0.3em 0;
+}
+.que.multichoice .answer div.r0, .que.multichoice .answer div.r1 {
+    padding: 0.3em 0 0.3em 25px;
+    text-indent: -25px;
+}
+.que.multichoice .answer div.r0 input, .que.multichoice .answer div.r1 input {
+    margin: 0 5px;
+    padding: 0;
+    width: 15px;
+}
+input[type="radio"], input[type="checkbox"] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+}
+button, input {
+    overflow: visible;
+}
+.que label {
+    display: inline;
+}

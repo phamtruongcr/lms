@@ -1,0 +1,23 @@
+<?php  
+return [
+    'Question Managements'=>'Question Managements',
+    'Create a question'=>'Create a question',
+    'Content'=>'Content',
+    'Slug' =>'Slug',
+    'Lesson name'=>'Lesson Name',
+    'Status'=>'Status',
+    'Type'=>'Type',
+    'Point'=>'Point',
+    'Created at'=>'Created At',
+    'Updated at'=>'Updated At',
+    'Action'=>'Action',
+    'No Questions'=>'No Questions',
+    'Create question'=>'Create Question',
+    'Update question'=>'Update question',
+    'Questions managemant'=>'Questions managemant',
+    'Create with other languages'=>'Create with other languages',
+    'Save'=>'Save Question',
+    'Question content'=>'Question content',
+    'Select the lesson'=>'Select the lesson',
+    'Other question content'=>'Other question content',
+];
